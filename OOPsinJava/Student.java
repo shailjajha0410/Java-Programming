@@ -1,0 +1,8 @@
+package OOPsinJava;
+
+public class Student {
+    String name;
+    int rno;
+    double percent;
+
+}
