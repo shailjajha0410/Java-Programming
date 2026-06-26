@@ -9,7 +9,7 @@ class arrayOfObject {
 
     arrayOfObject() {
     }
-
+    
     arrayOfObject(String name, int balance, String city) {
         this.name = name;
         this.city = city;
